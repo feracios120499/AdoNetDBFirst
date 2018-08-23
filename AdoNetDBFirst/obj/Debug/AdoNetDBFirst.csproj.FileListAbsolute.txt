@@ -1,0 +1,13 @@
+C:\Users\Feracios\Documents\GitHub\ADO.NET\AdoNetDBFirst\AdoNetDBFirst\bin\Debug\AdoNetDBFirst.exe.config
+C:\Users\Feracios\Documents\GitHub\ADO.NET\AdoNetDBFirst\AdoNetDBFirst\bin\Debug\AdoNetDBFirst.exe
+C:\Users\Feracios\Documents\GitHub\ADO.NET\AdoNetDBFirst\AdoNetDBFirst\bin\Debug\AdoNetDBFirst.pdb
+C:\Users\Feracios\Documents\GitHub\ADO.NET\AdoNetDBFirst\AdoNetDBFirst\bin\Debug\EntityFramework.dll
+C:\Users\Feracios\Documents\GitHub\ADO.NET\AdoNetDBFirst\AdoNetDBFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Feracios\Documents\GitHub\ADO.NET\AdoNetDBFirst\AdoNetDBFirst\bin\Debug\EntityFramework.xml
+C:\Users\Feracios\Documents\GitHub\ADO.NET\AdoNetDBFirst\AdoNetDBFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Feracios\Documents\GitHub\ADO.NET\AdoNetDBFirst\AdoNetDBFirst\obj\Debug\AdoNetDBFirst.csprojResolveAssemblyReference.cache
+C:\Users\Feracios\Documents\GitHub\ADO.NET\AdoNetDBFirst\AdoNetDBFirst\obj\Debug\AdoNetDBFirst.Form1.resources
+C:\Users\Feracios\Documents\GitHub\ADO.NET\AdoNetDBFirst\AdoNetDBFirst\obj\Debug\AdoNetDBFirst.Properties.Resources.resources
+C:\Users\Feracios\Documents\GitHub\ADO.NET\AdoNetDBFirst\AdoNetDBFirst\obj\Debug\AdoNetDBFirst.csproj.GenerateResource.Cache
+C:\Users\Feracios\Documents\GitHub\ADO.NET\AdoNetDBFirst\AdoNetDBFirst\obj\Debug\AdoNetDBFirst.exe
+C:\Users\Feracios\Documents\GitHub\ADO.NET\AdoNetDBFirst\AdoNetDBFirst\obj\Debug\AdoNetDBFirst.pdb
